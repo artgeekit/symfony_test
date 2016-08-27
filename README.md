@@ -1,4 +1,3 @@
-arthur_blog
-===========
-
-A Symfony project created on August 27, 2016, 9:24 pm.
+Experemental project based on Symfony
+Author Arthur Frank
+Date 27-08-2016
